@@ -28,7 +28,17 @@ This project is an advanced AI-based question answering system implemented using
    AZURE_OPENAI_MODEL_NAME=your_azure_openai_model_name
    AZURE_OPENAI_ENDPOINT=your_azure_openai_endpoint
    AZURE_OPENAI_API_KEY=your_azure_openai_api_key
+   TAVILY_API_KEY=your_tavily_api_key
    ```
+
+   To set up the Tavily API, sign up for Tavily and get access to 1,000 free searches per month. Follow these steps:
+
+   1. Visit https://tavily.com/
+   2. Create an account
+   3. Generate an API key
+   4. Enter the generated API key in the TAVILY_API_KEY field above
+
+   Tavily provides an AI-powered search API, and with a free account, you can perform 1,000 searches per month.
 
 ## Usage
 
