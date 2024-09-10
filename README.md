@@ -13,8 +13,8 @@ This project is an advanced AI-based question answering system implemented using
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Eric-Kim-HY/langgraph-essay-writer
+   cd langgraph-essay-writer
    ```
 
 2. Install the required packages:
